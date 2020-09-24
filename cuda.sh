@@ -19,4 +19,6 @@ sudo apt install libcudnn7
 
 cat variabili >> ~/.profile
 
+cat nfsvariabile >> sudo systemctl edit --full nfs-config.service 
+
 sudo reboot
