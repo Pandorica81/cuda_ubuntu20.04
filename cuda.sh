@@ -16,6 +16,7 @@ sudo apt update
 sudo apt install cuda-10-1
 sudo apt install libcudnn7
 sudo apt install nfs-common
+sudo apt install mc
 
 cat variabili >> ~/.profile
 
