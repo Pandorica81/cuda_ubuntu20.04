@@ -15,7 +15,7 @@ sudo bash -c 'echo "deb http://developer.download.nvidia.com/compute/machine-lea
 sudo apt update
 sudo apt install cuda-10-1
 sudo apt install libcudnn7
-
+sudo apt install nfs-common
 
 cat variabili >> ~/.profile
 
