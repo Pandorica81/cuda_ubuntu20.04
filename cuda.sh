@@ -13,3 +13,5 @@ sudo apt install libcudnn7
 
 
 cat variabili >> ~/.profile
+
+sudo reboot
