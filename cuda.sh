@@ -10,3 +10,6 @@ sudo add-apt-repository ppa:graphics-driverssudo apt-key adv --fetch-keys http:/
 sudo apt update
 sudo apt install cuda-10-1
 sudo apt install libcudnn7
+
+
+cat variabili >> ~/.profile
